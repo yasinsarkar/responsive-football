@@ -70,7 +70,7 @@ main{
 /* banner end */
 
 /* players start  */
-.players{
+.player-section{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 45px;
@@ -126,7 +126,7 @@ main{
 .blog_title{
     text-align: center;
 }
-.blogs{
+.blog-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-column-gap: 25px;
